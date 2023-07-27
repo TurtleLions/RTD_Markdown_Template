@@ -5,5 +5,5 @@ Example Index File
 
 .. toctree::
 
-    rstexample
-    mdexample
+   rstexample
+   mdexample
