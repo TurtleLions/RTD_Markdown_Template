@@ -1,6 +1,8 @@
 Example Index File
 ====================
 
+Sample text
+
 .. note::
   index.rst is a required file for Read the Docs.
 
