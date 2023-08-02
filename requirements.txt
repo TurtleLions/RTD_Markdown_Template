@@ -1,2 +1,2 @@
 myst_parser
-md_utils
+mdutils
