@@ -1,7 +1,7 @@
 # Configuration file for the Sphinx documentation builder.
 
 # -- Project information
-
+github_url = 'https://github.com/TurtleLions'
 project = 'PROJECT_NAME'
 copyright = 'COPYRIGHT'
 author = 'AUTHOR'
@@ -33,7 +33,7 @@ intersphinx_mapping = {
 }
 intersphinx_disabled_domains = ['std']
 
-templates_path = ['_templates']
+templates_path = ['_template']
 
 # -- Options for HTML output
 
