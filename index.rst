@@ -9,5 +9,7 @@ Sample text
 .. toctree::
   :caption: Table of Contents
 
-  rstexample
-  mdexample
+  /docs/rstexample
+  /docs/mdexample
+  /SubmoduleFileStore/md_submodule.md
+  /SubmoduleFileStore/rst_submodule.rst
