@@ -1,0 +1,3 @@
+[submodule "SubmoduleFileStore"]
+	path = SubmoduleFileStore
+	url = https://github.com/TurtleLions/SubmoduleFileStore/
